@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (3.1.5)
+  - Kingfisher (1.9.2)
+  - MBProgressHUD (0.9.2)
+  - SCLAlertView (0.4.3)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.1)
+  - Kingfisher (~> 1.9)
+  - MBProgressHUD (~> 0.9)
+  - SCLAlertView
+  - SwiftyJSON (~> 2.3)
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  Kingfisher: 7b6df0fa9d211807152c32c46494f9bc08f0e07b
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  SCLAlertView: a5c726a80a938fd3127edd7dbc19da33fb936ca3
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
